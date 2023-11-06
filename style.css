@@ -1,0 +1,17 @@
+button{
+    background-color: rgb(6, 189, 235);
+    height: 50px;
+    width: 200px;
+    font-size:  large;
+     font-weight: bold;
+    color: rgb(255, 0, 0);
+    border-color: rgb(0, 0, 0);
+    margin-left: 760px;
+} 
+  nav{
+    margin-left: 750px;
+    color: rgb(26, 62, 104);
+    font-weight: bold;
+
+} 
+  
